@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>mac doenald</h1>
+        <h1>Mac lelove</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -20,31 +20,32 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm John, a web developer passionate about creating dynamic and user-friendly websites. I specialize in front-end development with a focus on responsive design.</p>
+        <p>Hello! I'm Mac lelove a web developer passionate about creating dynamic and user-friendly websites. I specialize in front-end development with a focus on responsive design.</p>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
-            <h3>Project 1: Task Manager App</h3>
-            <p>A simple task manager app built with React and Node.js.</p>
-            <a href="https://github.com/yourusername/task-manager" target="_blank">View on GitHub</a>
-        </div>
-        <div class="project">
-            <h3>Project 2: Weather App</h3>
-            <p>A weather app that fetches real-time weather data using OpenWeather API.</p>
-            <a href="https://github.com/yourusername/weather-app" target="_blank">View on GitHub</a>
-        </div>
+            <h3>Project 1: ImagesApp</h3>
+            <p>Please provide me with more information about the images you're interested in. I need some context to understand what details you're looking for. For example, tell me:
+ 
+- What are the images of? (e.g., animals, landscapes, people, objects)
+- Where did you find the images? (e.g., a website, a book, a social media post)
+- What specific details are you interested in? (e.g., the colors, the composition, the subject matter, the artist, the date it was created)
+ 
+Once I have more information, I can provide you with a detailed and informative response.</p>
+        </div
+        
     </section>
 
     <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: macdoenald@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">macdoenald</a></p>
+        <h2>09647292736</h2>
+        <p>Email: maclelove@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">John Doe</a></p>
     </section>
 
     <footer>
-        <p>© 2024 mac doenald. All rights reserved.</p>
+        <p>© 2024 Mac lelove. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
