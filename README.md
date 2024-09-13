@@ -39,12 +39,12 @@
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: johndoe@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">John Doe</a></p>
+        <p>Email: macdoenald@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">macdoenald</a></p>
     </section>
 
     <footer>
-        <p>© 2024 John Doe. All rights reserved.</p>
+        <p>© 2024 mac doenald. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
